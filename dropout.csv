@@ -1,0 +1,79 @@
+ID,Facultad,Carrera Actual,Año Actual,Género,Edad,Modalidad de Estudio,Situación Laboral,Financiamiento Estudios,Índice Académico,Materias Semestre,Considerado Dejar Carrera,Satisfacción Carrera (1-5),Probabilidad Retirarse (1-5),Nivel Estrés Académico (1-5),Participa Extracurricular,Cantidad Extracurriculares,Razones Consideraría Dejar Carrera (Multiple),Especificar Otro Motivo,Comentarios Adicionales
+1,Ingeniería de Sistemas Computacionales,Licenciatura en Ingeniería de Software,3,Mujer,21,Presencial,Estudiante sin empleo,Apoyo familiar,2.55,6,Nunca,4,1,3,Sí,1,,,La carrera es desafiante pero gratificante.
+2,Ingeniería Mecánica,Licenciatura en Ingeniería Mecánica,2,Hombre,20,Presencial,Empleo a tiempo parcial,Recursos propios,2.1,5,1 vez,3,2,4,No,0,Dificultad académica,,A veces es difícil seguir el ritmo con el trabajo.
+3,Ingeniería Eléctrica,Licenciatura en Ingeniería Eléctrica,4,Hombre,22,Presencial,Estudiante sin empleo,Beca,2.7,7,Nunca,5,1,2,Sí,2,,,Muy satisfecho con la calidad de la enseñanza.
+4,Ciencias y Tecnología,Licenciatura en Matemáticas Aplicadas,1,Mujer,18,Híbrido,Estudiante sin empleo,Apoyo familiar,2.3,5,Nunca,4,1,3,No,0,,,Es un buen inicio adaptándome a la universidad.
+5,Ingeniería Civil,Licenciatura en Ingeniería Civil,5,Hombre,24,Presencial,Empleo a tiempo completo,Recursos propios,2,4,2 a 3 veces,2,3,4,No,0,"Problemas económicos, Dificultad académica",,Equilibrar trabajo y estudio es complicado.
+6,Ingeniería Industrial,Licenciatura en Ingeniería Industrial,3,Mujer,21,Presencial,Estudiante sin empleo,Apoyo familiar,2.45,6,Nunca,4,1,3,Sí,1,,,-
+7,Ingeniería de Sistemas Computacionales,Licenciatura en Redes Informáticas,2,Hombre,19,Virtual,Estudiante sin empleo,Apoyo familiar,2.2,5,Nunca,3,2,4,Sí,1,,,La modalidad virtual tiene sus ventajas y desventajas.
+8,Ingeniería Mecánica,Licenciatura en Ingeniería Naval,4,Hombre,23,Presencial,Empleo a tiempo parcial,Crédito educativo,1.9,5,Más de 3 veces,2,4,5,No,0,"Dificultad académica, Falta de interés o vocación",,Estoy reconsiderando si esta carrera es para mí.
+9,Ingeniería Eléctrica,Licenciatura en Ingeniería Electrónica,1,Mujer,18,Presencial,Estudiante sin empleo,Apoyo familiar,2.65,6,Nunca,5,1,2,Sí,3,,,Me encantan las actividades extracurriculares del campus.
+10,Ciencias y Tecnología,Licenciatura en Química,3,Hombre,20,Híbrido,Estudiante sin empleo,Beca,2.8,7,Nunca,5,1,2,Sí,2,,,La beca me motiva a mantener un buen índice.
+11,Ingeniería Civil,Licenciatura en Geomática,2,Mujer,19,Presencial,Estudiante sin empleo,Apoyo familiar,2.35,6,1 vez,3,2,3,No,0,Problemas familiares o personales,,Tuve un problema familiar que me afectó un semestre.
+12,Ingeniería Industrial,Licenciatura en Logística y Transporte,4,Hombre,22,Presencial,Estudiante sin empleo,Apoyo familiar,2.5,5,Nunca,4,1,3,Sí,1,,,-
+13,Ingeniería de Sistemas Computacionales,Licenciatura en Ciberseguridad,3,Prefiero no decirlo,20,Virtual,Empleo a tiempo completo,Recursos propios,1.85,4,Más de 3 veces,1,5,5,No,0,"Problemas económicos, Dificultades tecnológicas o de conectividad, Otro (especifique)",La conexión a internet es muy inestable donde vivo.,La mala conexión dificulta mucho seguir las clases.
+14,Ingeniería Mecánica,Licenciatura en Ingeniería Aeronáutica,1,Hombre,18,Presencial,Estudiante sin empleo,Apoyo familiar,2.4,7,Nunca,4,1,3,Sí,2,,,Emocionado por empezar en esta carrera.
+15,Ingeniería Eléctrica,Licenciatura en Ingeniería de Telecom,5,Mujer,23,Presencial,Estudiante sin empleo,Beca,2.95,6,Nunca,5,1,1,Sí,1,,,Ya casi termino estoy muy feliz con mi elección.
+16,Ciencias y Tecnología,Licenciatura en Física,2,Hombre,19,Híbrido,Estudiante sin empleo,Apoyo familiar,2.15,5,1 vez,3,2,4,No,0,Falta de interés o vocación,,Algunas materias son más difíciles de lo que esperaba.
+17,Ingeniería Civil,Licenciatura en Ingeniería Ambiental,3,Mujer,20,Presencial,Empleo a tiempo parcial,Apoyo familiar,2.3,6,Nunca,4,1,3,Sí,1,,,Interesada en temas de sostenibilidad.
+18,Ingeniería Industrial,Licenciatura en Ing. Marítima Auxiliar,4,Hombre,22,Presencial,Estudiante sin empleo,Apoyo familiar,2.6,5,Nunca,4,1,2,Sí,0,,,Formo parte de un grupo de estudio.
+19,Ingeniería de Sistemas Computacionales,Técnico en Desarrollo de Software,1,Otro,18,Virtual,Estudiante sin empleo,Apoyo familiar,2.05,5,Nunca,3,2,3,No,0,Otro (especifique),Género no binario,
+20,Ingeniería Eléctrica,Licenciatura en Ing. Biomédica,2,Mujer,19,Presencial,Estudiante sin empleo,Apoyo familiar,2.75,7,Nunca,5,1,2,Sí,2,,,Me parece una carrera muy innovadora.
+21,Ingeniería Eléctrica,Ingeniería Electromecánica ,3,Hombre,20,Presencial,No trabajo,Recursos propios,1.79,3,1 vez,2,1,3,Sí,2,Dificultad académica,,
+22,Ingeniería Mecánica,Ingeniería mecánica ,2,Hombre,19,Presencial,No trabajo,Apoyo familiar,1,5,Nunca,3,3,3,No,0,Falta de interés o vocación;Insatisfacción con la enseñanza o los docentes,,
+23,Ingeniería de Sistemas Computacionales,Ing. Sis. Inf. Ger,3,Hombre,20,Presencial,No trabajo,Apoyo familiar,1.9,6,Más de 3 veces,3,1,3,No,0,"Problemas de salud mental (estrés, ansiedad, etc.);Insatisfacción con la enseñanza o los docentes;Dificultades tecnológicas o de conectividad",,
+24,Ingeniería Industrial,Ingeniería industrial ,2,Mujer,19,Presencial,Trabajo a medio tiempo,Recursos propios,2.67,8,2 a 3 veces,3,2,5,No,0,"Dificultad académica;Problemas de salud mental (estrés, ansiedad, etc.)",,
+25,Ingeniería de Sistemas Computacionales,Desarrollo y Gestión de Software,3,Hombre,21,Híbrido,Trabajo a medio tiempo,Recursos propios,1.96,5,Más de 3 veces,3,2,4,No,3,"Dificultad académica;Problemas de salud mental (estrés, ansiedad, etc.);Problemas familiares o personales;Insatisfacción con la enseñanza o los docentes;Dificultades tecnológicas o de conectividad",,
+26,Ingeniería Eléctrica,Ingeniería eléctrica-electronica,3,Hombre,21,Presencial,No trabajo,Apoyo familiar,1.86,8,Nunca,4,1,4,No,2,,,
+27,Ingeniería de Sistemas Computacionales,Lic. En Desarrollo de Software,3,Hombre,20,Presencial,No trabajo,Apoyo familiar,2,4,1 vez,4,2,3,No,2,Dificultad académica;Falta de interés o vocación,,
+28,Ingeniería de Sistemas Computacionales,Lic. En Ing. De Sistemas de Información Gerencial,3,Hombre,22,Presencial,No trabajo,Apoyo familiar,2.73,6,Nunca,5,1,3,No,0,Falta de interés o vocación;Problemas familiares o personales,,
+29,Ingeniería Civil,Lic.en Ingeniería Civil ,2,Hombre,19,Presencial,No trabajo,Apoyo familiar,2.69,6,1 vez,3,3,4,No,0,"Falta de interés o vocación;Problemas de salud mental (estrés, ansiedad, etc.)",,
+30,Ingeniería Industrial,Ing. Mecánica Industrial ,3,Hombre,20,Presencial,No trabajo,Apoyo familiar,1.58,6,Nunca,5,1,4,No,0,Falta de interés o vocación,,
+31,Ingeniería Industrial,Ingeniería mecánica Industrial ,3,Mujer,19,Presencial,No trabajo,Apoyo familiar,1.82,6,Nunca,3,1,5,No,0,"Problemas económicos;Problemas de salud mental (estrés, ansiedad, etc.)",,
+32,Ingeniería de Sistemas Computacionales,Licenciatura en Ingeniería de Software,4,Mujer,22,Presencial,Empleo a tiempo parcial,Beca,2.35,7,1 vez,4,2,3,Sí,2,,,
+33,Ingeniería Mecánica,Licenciatura en Ingeniería Automotriz,1,Hombre,19,Presencial,Estudiante sin empleo,Apoyo familiar,2.8,6,Nunca,5,1,2,Sí,1,,,
+34,Ingeniería Eléctrica,Licenciatura en Automatización,3,Mujer,21,Híbrido,Empleo a tiempo parcial,Recursos propios,2.15,5,2 a 3 veces,3,3,4,No,0,,,
+35,Ciencias y Tecnología,Licenciatura en Estadística,2,Hombre,20,Virtual,Estudiante sin empleo,Apoyo familiar,2.65,6,Nunca,4,1,3,Sí,2,,,
+36,Ingeniería Civil,Licenciatura en Ingeniería Estructural,5,Mujer,24,Presencial,Empleo a tiempo completo,Crédito educativo,1.95,4,Más de 3 veces,2,4,5,No,0,,,
+37,Ingeniería Industrial,Licenciatura en Gestión de Calidad,2,Hombre,19,Presencial,Estudiante sin empleo,Beca,2.45,7,Nunca,4,1,3,Sí,1,,,
+38,Ingeniería de Sistemas Computacionales,Técnico en Sistemas Informáticos,1,Prefiero no decirlo,18,Virtual,Estudiante sin empleo,Apoyo familiar,2.25,5,1 vez,3,2,3,No,1,,,
+39,Ingeniería Mecánica,Licenciatura en Ingeniería Térmica,4,Hombre,23,Presencial,Empleo a tiempo parcial,Recursos propios,2.05,5,2 a 3 veces,3,3,4,No,2,,,
+40,Ingeniería Eléctrica,Licenciería en Ingeniería de Control,3,Mujer,21,Presencial,Estudiante sin empleo,Apoyo familiar,2.75,6,Nunca,5,1,2,Sí,3,,,
+41,Ciencias y Tecnología,Licenciatura en Biología,1,Mujer,18,Híbrido,Estudiante sin empleo,Apoyo familiar,2.4,6,Nunca,4,1,3,Sí,1,,,
+42,Ingeniería Civil,Licenciatura en Ingeniería Hidráulica,2,Hombre,20,Presencial,Estudiante sin empleo,Beca,2.6,7,1 vez,4,2,2,Sí,2,,,
+43,Ingeniería Industrial,Licenciatura en Ing. de Procesos,4,Mujer,22,Presencial,Empleo a tiempo parcial,Apoyo familiar,2.3,5,Nunca,3,1,4,No,0,,,
+44,Ingeniería de Sistemas Computacionales,Licenciatura en Inteligencia Artificial,3,Hombre,21,Virtual,Empleo a tiempo completo,Recursos propios,1.8,4,Más de 3 veces,2,5,5,No,1,,,
+45,Ingeniería Mecánica,Licenciatura en Robótica,1,Otro,19,Presencial,Estudiante sin empleo,Apoyo familiar,2.55,7,Nunca,4,1,3,Sí,2,,,
+46,Ingeniería Eléctrica,Licenciatura en Energías Renovables,5,Hombre,24,Presencial,Empleo a tiempo completo,Crédito educativo,2.1,4,2 a 3 veces,3,3,4,No,0,,,
+47,Ciencias y Tecnología,Licenciatura en Ciencias Computacionales,2,Mujer,20,Híbrido,Estudiante sin empleo,Beca,2.85,6,Nunca,5,1,2,Sí,3,,,
+48,Ingeniería Civil,Licenciatura en Construcción,3,Hombre,21,Presencial,Estudiante sin empleo,Apoyo familiar,2.2,5,1 vez,3,2,3,No,1,,,
+49,Ingeniería Industrial,Licenciatura en Ing. de Sistemas,4,Mujer,23,Presencial,Empleo a tiempo parcial,Recursos propios,2.65,6,Nunca,4,1,2,Sí,2,,,
+50,Ingeniería de Sistemas Computacionales,Licenciatura en Análisis de Datos,1,Hombre,18,Virtual,Estudiante sin empleo,Apoyo familiar,2.35,5,Nunca,3,2,3,No,0,,,
+51,Ingeniería Mecánica,Licenciatura en Ing. de Materiales,2,Mujer,19,Presencial,Estudiante sin empleo,Apoyo familiar,2.7,7,1 vez,5,1,2,Sí,1,,,
+52,Ingeniería Eléctrica,Licenciatura en Microelectrónica,3,Hombre,20,Presencial,No trabajo,Beca,1.9,5,Más de 3 veces,2,4,4,No,2,,,
+53,Ciencias y Tecnología,Licenciatura en Ingeniería Química,4,Mujer,22,Híbrido,Trabajo a medio tiempo,Recursos propios,2.5,6,2 a 3 veces,4,2,3,No,1,,,
+54,Ingeniería Civil,Ing. en Topografía,2,Hombre,19,Presencial,No trabajo,Apoyo familiar,2.15,6,Nunca,3,1,4,No,0,,,
+55,Ingeniería Industrial,Ing. en Administración Industrial,3,Mujer,21,Presencial,No trabajo,Apoyo familiar,2.45,7,1 vez,4,2,3,Sí,1,,,
+56,Ingeniería de Sistemas Computacionales,Lic. en Ingeniería de Redes,3,Hombre,22,Virtual,Trabajo a medio tiempo,Recursos propios,1.75,4,Más de 3 veces,2,3,5,No,2,,,
+57,Ingeniería Mecánica,Ing. en Diseño Mecánico,2,Hombre,20,Presencial,No trabajo,Apoyo familiar,2.8,8,Nunca,5,1,2,Sí,3,,,
+58,Ingeniería Eléctrica,Ing. en Sistemas Eléctricos,4,Mujer,23,Presencial,Trabajo a medio tiempo,Crédito educativo,2.25,5,2 a 3 veces,3,3,4,No,1,,,
+59,Ciencias y Tecnología,Lic. en Matemáticas,1,Hombre,18,Híbrido,No trabajo,Apoyo familiar,2.6,6,Nunca,4,1,3,Sí,2,,,
+60,Ingeniería Civil,Ing. Civil y Ambiental,3,Mujer,21,Presencial,No trabajo,Beca,2.35,7,1 vez,4,2,3,No,0,,,
+61,Ingeniería Industrial,Ing. en Producción,2,Hombre,19,Presencial,No trabajo,Apoyo familiar,1.95,5,Nunca,3,1,4,No,1,,,
+62,Ingeniería de Sistemas Computacionales,Licenciatura en Desarrollo de Videojuegos,2,Hombre,20,Híbrido,Empleo a tiempo parcial,Recursos propios,1.95,5,2 a 3 veces,4,2,3,Sí,1,,,
+63,Ingeniería Civil,Licenciatura en Ingeniería Geotécnica,3,Mujer,21,Presencial,Estudiante sin empleo,Beca,2.25,6,1 vez,3,3,4,No,0,,,
+64,Ingeniería Mecánica,Ingeniería en Mantenimiento Industrial,4,Hombre,22,Presencial,Empleo a tiempo completo,Recursos propios,1.8,4,Más de 3 veces,5,2,2,Sí,0,,,
+65,Ciencias y Tecnología,Licenciatura en Ciencia de Datos,2,Mujer,19,Virtual,Estudiante sin empleo,Apoyo familiar,2.4,6,Nunca,3,3,4,No,1,,,
+66,Ingeniería Eléctrica,Ingeniería en Control y Automatización,3,Hombre,21,Presencial,No trabajo,Crédito educativo,1.75,5,2 a 3 veces,4,2,3,No,2,,,
+67,Ingeniería Industrial,Licenciatura en Gestión de Operaciones,5,Mujer,23,Híbrido,Empleo a tiempo completo,Recursos propios,2.1,4,1 vez,4,3,3,No,0,,,
+68,Ingeniería de Sistemas Computacionales,Ingeniería en Infraestructura y DevOps,3,Hombre,22,Virtual,Empleo a tiempo completo,Recursos propios,1.9,4,Más de 3 veces,5,2,3,No,1,,,
+69,Ingeniería Mecánica,Licenciatura en Diseño Automotriz,2,Prefiero no decirlo,20,Presencial,No trabajo,Apoyo familiar,2.3,7,Nunca,2,4,5,Sí,0,,,
+70,Ingeniería Civil,Ingeniería en Vías y Transporte,4,Hombre,23,Presencial,Empleo a tiempo parcial,Recursos propios,1.65,5,Más de 3 veces,5,2,2,Sí,1,,,
+71,Ciencias y Tecnología,Licenciatura en Astrofísica,1,Mujer,18,Híbrido,No trabajo,Beca,2.45,6,Nunca,3,4,4,No,0,,,
+72,Ingeniería de Sistemas Computacionales,Técnico en Redes y Comunicaciones,2,Hombre,19,Virtual,Empleo a tiempo parcial,Recursos propios,2.05,5,1 vez,4,3,3,No,2,,,
+73,Ingeniería Industrial,Ing. en Seguridad y Salud Ocupacional,3,Mujer,20,Presencial,No trabajo,Apoyo familiar,1.85,6,2 a 3 veces,4,2,2,Sí,0,,,
+74,Ingeniería Eléctrica,Ingeniería en Sistemas de Potencia,4,Hombre,22,Presencial,No trabajo,Crédito educativo,2.2,5,1 vez,3,3,4,No,1,,,
+75,Ingeniería Mecánica,Ingeniería en Climatización,2,Hombre,20,Presencial,No trabajo,Apoyo familiar,1.55,5,Más de 3 veces,5,1,2,Sí,0,,,
+76,Ingeniería de Sistemas Computacionales,Lic. en Blockchain y Criptoactivos,3,Otro,21,Virtual,Empleo a tiempo completo,Recursos propios,2.35,4,1 vez,3,3,5,No,0,,,
+77,Ingeniería Civil,Ingeniería Hidrológica,1,Mujer,19,Presencial,No trabajo,Beca,2.5,7,Nunca,2,4,5,No,1,,,
+78,Ingeniería Industrial,Licenciatura en Cadena de Suministro,4,Hombre,23,Híbrido,Empleo a tiempo parcial,Recursos propios,1.98,5,2 a 3 veces,4,2,3,No,0,,,
